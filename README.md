@@ -1,5 +1,6 @@
 # 🚑 EMMA: Emergency Medicine Multimodal Assistant
-
+⚠️ We will upload the core code during this period.
+The complete code and pretrained models will be released after the paper is published.
 ## 📢 Introduction
 
 **EMMA (Emergency Medicine Multimodal Assistant)** is the first **domain‑specific multimodal large language model (MLLM)** designed for emergency medicine.  
